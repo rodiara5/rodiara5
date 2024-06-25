@@ -1,15 +1,22 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Rodiara&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFC0CB&height=150&section=header&text=Rodiara&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+####  :wave: 안녕하세요, 저는 김동섭입니다!
 
   
  <br/>
- <br/>
-  
-####  :clipboard: Once I've Used 
-  
+ 
+ 🌟 경력사항 : 24/06/24 엔코아 플레이데이터 데이터엔지니어링 29기 수료
+ 
+ 🔭 현재 진행 중인 프로젝트 : 나스닥 나랑해❤️[(프로젝트 링크)](https://github.com/rodiara5/NasdaqWithMe)
+ 
+ 📫 연락처 : rodiara1018@gmail.com
+
+ 
+
+
+####  : tool: 이런 기술들을 사용해봤어요!
  <br/>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -31,3 +38,5 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+⭐️ 오늘 하루도 행복하세요(찡긋)
