@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFC0CB&height=150&section=header&text=Rodiara&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFC0CB&height=150&section=header&text=Rodiara's_dev&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: 안녕하세요, 저는 김동섭입니다!
 
