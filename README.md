@@ -37,6 +37,6 @@ Collaboration Tool
 [![Notion](https://img.shields.io/badge/Notion-LangChain-000000?style=for-the-badge&logo=notion&logoColor=white)](https://three-aunt-8cf.notion.site/Langchain-ce33b21cc2164d04b625e9a2ca1271f7?pvs=4)
 
 #### Apache Spark 프로젝트
-[![Notion](https://img.shields.io/badge/Notion-Apache_Spark-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Apache-Spark-d4c0e6026af944e2baac7c8d68d0a96a)
+[![Notion](https://img.shields.io/badge/Notion-Apache_Spark-000000?style=for-the-badge&logo=notion&logoColor=white)](https://three-aunt-8cf.notion.site/Apache-Spark-d4c0e6026af944e2baac7c8d68d0a96a?pvs=4)
 
 ⭐️ 오늘 하루도 행복하세요(찡긋)
