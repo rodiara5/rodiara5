@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gugi&size=40&duration=1000&pause=1000&color=F771DD&center=true&multiline=true&random=false&width=600&height=120&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B9%80%EB%8F%99%EC%84%AD%EC%9E%85%EB%8B%88%EB%8B%A4.;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D%EC%9D%84+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+1[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gugi&size=40&duration=1000&pause=1000&color=F771DD&center=true&multiline=true&random=false&width=600&height=120&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B9%80%EB%8F%99%EC%84%AD%EC%9E%85%EB%8B%88%EB%8B%A4.;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D%EC%9D%84+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
   
  🌟 경험사항 : 24/06/24 엔코아 플레이데이터 데이터엔지니어링 29기 수료
  
@@ -34,10 +34,10 @@ Collaboration Tool
 ### :pencil2: Study log
 
 #### LangChain Project
-[![Notion](https://img.shields.io/badge/Notion-LangChain-000000?style=for-the-badge&logo=notion&logoColor=white)](https://three-aunt-8cf.notion.site/Langchain-ce33b21cc2164d04b625e9a2ca1271f7?pvs=사)
+[![Notion](https://img.shields.io/badge/Notion-LangChain-000000?style=for-the-badge&logo=notion&logoColor=white)](https://three-aunt-8cf.notion.site/Langchain-ce33b이일cc2164d04b625e9a2ca1271f7?pvs=4)
 
 #### Apache Spark Project
 
-[![Notion](https://img.shields.io/badge/Notion-Apache_Spark-000000?style=for-the-badge&logo=notion&logoColor=white)](https://three-aunt-8cf.notion.site/Apache-Spark-d4c0e6026af944e2baac7c8d68d0a96a?pvs=사)
+[![Notion](https://img.shields.io/badge/Notion-Apache_Spark-000000?style=for-the-badge&logo=notion&logoColor=white)](https://three-aunt-8cf.notion.site/Apache-Spark-d4c0e60이육af944e2baac7c8d68d0a96a?pvs=4)
 
 ⭐️ 오늘 하루도 행복하세요(찡긋)
