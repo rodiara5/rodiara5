@@ -31,8 +31,13 @@ Collaboration Tool
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-#### :pencil2: Study log
+### :pencil2: Study log
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### LangChain 프로젝트
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="height: 20px;">
+
+#### Apache Spark 프로젝트
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="height: 20px;">
+
 
 ⭐️ 오늘 하루도 행복하세요(찡긋)
